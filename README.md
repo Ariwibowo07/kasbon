@@ -4,8 +4,8 @@ Web app sederhana buat catat utang piutang pribadi — siapa hutang berapa ke ka
 
 ## Demo
 
-- **Live demo:** `<isi link Vercel kamu di sini setelah deploy>`
-- **Repo:** `<isi link GitHub repo kamu di sini>`
+- **Live demo:** `<https://kasbon-fmw8.vercel.app>`
+- **Repo:** `<https://github.com/Ariwibowo07/kasbon>`
 
 ## Stack
 
